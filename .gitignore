@@ -1,0 +1,11 @@
+~$*.docx
+.tmp
+.iml
+.xml
+.bin
+.pak
+
+.*.*
+
+.DS_Store
+*~*
